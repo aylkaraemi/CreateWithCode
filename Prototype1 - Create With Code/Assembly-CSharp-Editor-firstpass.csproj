@@ -57,8 +57,20 @@
      <Compile Include="Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs" />
      <None Include="Assets\Plugins\GitHub\Editor\credits.txt" />
      <None Include="Assets\Plugins\GitHub\Editor\eula.txt" />
+ <Reference Include="Unity.UIWidgets.Editor">
+ <HintPath>C:/Users/AylkaRaemi/Unity-GameDev/CreatingWithCode/Prototype1 - Create With Code/Library/ScriptAssemblies/Unity.UIWidgets.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Connect.Share.Editor">
+ <HintPath>C:/Users/AylkaRaemi/Unity-GameDev/CreatingWithCode/Prototype1 - Create With Code/Library/ScriptAssemblies/Unity.Connect.Share.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.InternalAPIEditorBridgeDev.001">
+ <HintPath>C:/Users/AylkaRaemi/Unity-GameDev/CreatingWithCode/Prototype1 - Create With Code/Library/ScriptAssemblies/Unity.InternalAPIEditorBridgeDev.001.dll</HintPath>
+ </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
  <HintPath>C:/Users/AylkaRaemi/Unity-GameDev/CreatingWithCode/Prototype1 - Create With Code/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.UIWidgets">
+ <HintPath>C:/Users/AylkaRaemi/Unity-GameDev/CreatingWithCode/Prototype1 - Create With Code/Library/ScriptAssemblies/Unity.UIWidgets.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
  <HintPath>C:/Users/AylkaRaemi/Unity-GameDev/CreatingWithCode/Prototype1 - Create With Code/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
@@ -71,18 +83,6 @@
  </Reference>
  <Reference Include="Unity.Analytics.DataPrivacy">
  <HintPath>C:/Users/AylkaRaemi/Unity-GameDev/CreatingWithCode/Prototype1 - Create With Code/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
- </Reference>
- <Reference Include="Unity.UIWidgets.Editor">
- <HintPath>C:/Users/AylkaRaemi/Unity-GameDev/CreatingWithCode/Prototype1 - Create With Code/Library/ScriptAssemblies/Unity.UIWidgets.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Connect.Share.Editor">
- <HintPath>C:/Users/AylkaRaemi/Unity-GameDev/CreatingWithCode/Prototype1 - Create With Code/Library/ScriptAssemblies/Unity.Connect.Share.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Unity.InternalAPIEditorBridgeDev.001">
- <HintPath>C:/Users/AylkaRaemi/Unity-GameDev/CreatingWithCode/Prototype1 - Create With Code/Library/ScriptAssemblies/Unity.InternalAPIEditorBridgeDev.001.dll</HintPath>
- </Reference>
- <Reference Include="Unity.UIWidgets">
- <HintPath>C:/Users/AylkaRaemi/Unity-GameDev/CreatingWithCode/Prototype1 - Create With Code/Library/ScriptAssemblies/Unity.UIWidgets.dll</HintPath>
  </Reference>
  <Reference Include="Unity.InternalAPIEngineBridge.024">
  <HintPath>C:/Users/AylkaRaemi/Unity-GameDev/CreatingWithCode/Prototype1 - Create With Code/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.024.dll</HintPath>
@@ -366,11 +366,11 @@
  <Reference Include="Unity.Analytics.Tracker">
  <HintPath>C:/Users/AylkaRaemi/Unity-GameDev/CreatingWithCode/Prototype1 - Create With Code/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
  </Reference>
- <Reference Include="UnityEditor.Purchasing">
- <HintPath>C:/Users/AylkaRaemi/Unity-GameDev/CreatingWithCode/Prototype1 - Create With Code/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll</HintPath>
- </Reference>
  <Reference Include="System.IO.Compression.FileSystem">
  <HintPath>C:/Users/AylkaRaemi/Unity-GameDev/CreatingWithCode/Prototype1 - Create With Code/Library/PackageCache/com.unity.connect.share@1.0.10-preview/Plugins/System.IO.Compression.FileSystem.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.Purchasing">
+ <HintPath>C:/Users/AylkaRaemi/Unity-GameDev/CreatingWithCode/Prototype1 - Create With Code/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.iOS.Extensions.Xcode">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2018.4.8f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
